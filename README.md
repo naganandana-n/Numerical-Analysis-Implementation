@@ -4,7 +4,7 @@ This repository contains Python implementations of various numerical analysis me
 
 ## Implemented Methods
 
-1. [**Bisection Method**:](https://github.com/naganandana-n/Numerical-Analysis-Implementation/blob/main/Bisection-Method.py)
+1. [**Bisection Method**:](https://github.com/naganandana-n/Numerical-Analysis-Implementation/blob/main/Bisection-Method.py)\n
    A root-finding method that repeatedly bisects an interval and then selects a subinterval in which a root must lie for further processing.
 2. [**Regular Falsi Method / Method of False Position**:](https://github.com/naganandana-n/Numerical-Analysis-Implementation/blob/main/False-Position-Method.py)
    A root-finding algorithm that computes a succession of roots based on linear interpolation.
