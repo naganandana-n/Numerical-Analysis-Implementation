@@ -10,7 +10,7 @@ This repository contains Python implementations of various numerical analysis me
 3. [**Regular Falsi Method / Method of False Position**:](https://github.com/naganandana-n/Numerical-Analysis-Implementation/blob/main/False-Position-Method.py)
    
    A root-finding algorithm that computes a succession of roots based on linear interpolation.
-5. **Secant Method**:
+5. [**Secant Method**:](https://github.com/naganandana-n/Numerical-Analysis-Implementation/blob/main/Secant-Method.py)
    
    A root-finding algorithm that uses a succession of roots of secant lines to better approximate a root of a function.
 7. **Newton Method**:
@@ -43,5 +43,3 @@ This repository contains Python implementations of various numerical analysis me
 25. **Gauss Seidel Method**:
     
     An iterative method similar to Gauss Jacobi method but with a more efficient approach by utilizing newly updated values.
-
-    testing
