@@ -43,3 +43,5 @@ This repository contains Python implementations of various numerical analysis me
 25. **Gauss Seidel Method**:
     
     An iterative method similar to Gauss Jacobi method but with a more efficient approach by utilizing newly updated values.
+
+    testing
