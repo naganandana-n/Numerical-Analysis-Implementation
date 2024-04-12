@@ -8,26 +8,38 @@ This repository contains Python implementations of various numerical analysis me
 
    A root-finding method that repeatedly bisects an interval and then selects a subinterval in which a root must lie for further processing.
 3. [**Regular Falsi Method / Method of False Position**:](https://github.com/naganandana-n/Numerical-Analysis-Implementation/blob/main/False-Position-Method.py)
+   
    A root-finding algorithm that computes a succession of roots based on linear interpolation.
-4. **Secant Method**:
+5. **Secant Method**:
+   
    A root-finding algorithm that uses a succession of roots of secant lines to better approximate a root of a function.
-5. **Newton Method**:
+7. **Newton Method**:
+   
    An iterative method for finding successively better approximations to the roots (or zeroes) of a real-valued function.
-6. **Newton Method for Multiple Roots**:
+9. **Newton Method for Multiple Roots**:
+    
     Extension of Newton's method for finding multiple roots of a function.
-7. **Method of Iteration**:
+11. **Method of Iteration**:
+    
     A method that repeatedly applies a function to an initial guess until a desired accuracy is reached.
-8. **Newton Method for System of Nonlinear Equations**:
+13. **Newton Method for System of Nonlinear Equations**:
+    
     An extension of Newton's method for solving systems of nonlinear equations.
-9. **Muller's Method**:
+15. **Muller's Method**:
+    
     A root-finding algorithm which combines bisection, secant, and inverse quadratic interpolation methods.
-10. **Gauss Elimination Method (Partial Pivoting)**:
+17. **Gauss Elimination Method (Partial Pivoting)**:
+    
     A method for solving systems of linear equations by transforming the augmented matrix into upper triangular form through row operations.
-11. **Gauss Jordan Method (Partial Pivoting)**:
+19. **Gauss Jordan Method (Partial Pivoting)**:
+    
     An extension of Gauss elimination method which transforms the augmented matrix into reduced row-echelon form.
-12. **LU Decomposition Method**:
+21. **LU Decomposition Method**:
+    
     A method for solving systems of linear equations by decomposing the matrix into lower and upper triangular matrices.
-13. **Gauss Jacobi Method**:
+23. **Gauss Jacobi Method**:
+    
     An iterative method for solving systems of linear equations by successively improving the solution approximation.
-14. **Gauss Seidel Method**:
+25. **Gauss Seidel Method**:
+    
     An iterative method similar to Gauss Jacobi method but with a more efficient approach by utilizing newly updated values.
