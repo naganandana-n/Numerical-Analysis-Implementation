@@ -13,7 +13,7 @@ def gaussElimination(aMatrix, bMatrix):
         return
 
     #initializing necessary variables
-    n = len(bMatrix) 
+    n = len(bMatrix) # no. of rows
     m = n - 1
     i = 0
     x = np.zeros(n)
@@ -88,7 +88,7 @@ variableMatrix = np.array([[-5, -2, 2],
 constantMatrix = np.array([[14],
                            [-8],
                            [-3]])
-
 '''
+
 
 gaussElimination(variableMatrix, constantMatrix)
